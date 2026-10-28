@@ -1,0 +1,11 @@
+{
+  "name": "moviebox-pro",
+  "version": "1.0.0",
+  "description": "Web wrapper for MovieboxPro with D-pad navigation",
+  "packageType": "mods",
+  "appName": "MovieBoxPro",
+  "websiteURL": "https://movieboxpro.app",
+  "main": "userScript.js",
+  "author": "",
+  "license": "MIT"
+}

@@ -1,4 +1,4 @@
-# My TV Site Wrapper (TizenBrew module)
+# MovieBoxPro Wrapper (TizenBrew module)
 
 A minimal TizenBrew site-modification module that loads any website on a
 Samsung Tizen TV and makes it navigable with the remote's D-pad.
